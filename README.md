@@ -5,18 +5,6 @@ Here is a sample `README.md` file for the repository `A.2.CPU_Stress`:
 
 This repository provides scripts and instructions to stress test the CPU on a Linux instance, particularly useful for AWS environments.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Using stress-ng](#using-stress-ng)
-  - [Using stress](#using-stress)
-  - [Custom Shell Script](#custom-shell-script)
-  - [Python Script](#python-script)
-- [Monitoring CPU Usage](#monitoring-cpu-usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 CPU stress testing is useful for performance benchmarking and system reliability testing under high load. This repository includes multiple methods to increase CPU stress on a Linux system.
