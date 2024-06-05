@@ -1,4 +1,6 @@
 Here is a sample `README.md` file for the repository `A.2.CPU_Stress`:
+![image](https://github.com/SivaranjanAsokan/A.2.CPU_Stress/assets/163242501/968feda9-bfec-4061-8822-9297af21a66e)
+
 
 ```markdown
 # CPU Stress Test
